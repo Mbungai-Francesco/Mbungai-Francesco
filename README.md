@@ -2,7 +2,7 @@
 
 <!--
 **Mbungai-Francesco/Mbungai-Francesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Coah-Personel fitness app, and a student-Teacher relationship web-app
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mbungaifrancesco2@gmail.com 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
--->
+
