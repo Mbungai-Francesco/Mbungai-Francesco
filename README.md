@@ -6,6 +6,7 @@
 - 💬 Ask me about any thing<br>
 - 📫 How to reach me: mbungaifrancesco2@gmail.com <br>
 - 😄 Pronouns: he/him<br>
+- Portfolio : https://forchembungai.vercel.app/
 - ⚡ Fun fact: ...
 
 
